@@ -1,5 +1,9 @@
 # decision-algorithm
 
+[![skills.sh](https://img.shields.io/badge/skills.sh-install-blue)](https://skills.sh/truenorth-lj/decision-algorithm-skill)
+[![ClawHub](https://img.shields.io/badge/ClawHub-install-purple)](https://clawhub.ai/skills/decision-algorithm)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > *"Major life decisions shouldn't rely on momentary passion — they need a repeatable decision algorithm."*
 
 Based on 20 years of decision research, fusing **Expected Value + Kelly Criterion + Bayesian Theorem (EKB Framework)** to help you build a self-correcting decision loop.
@@ -11,7 +15,7 @@ Based on 20 years of decision research, fusing **Expected Value + Kelly Criterio
 npx skills add truenorth-lj/decision-algorithm-skill
 
 # ClawHub
-clawhub install truenorth-lj/decision-algorithm-skill
+clawhub install decision-algorithm
 
 # Manual (Claude Code)
 cp -r . ~/.claude/skills/decision-algorithm
